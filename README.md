@@ -10,7 +10,7 @@ Welcome to the Student Grading System project! This application is designed to a
 
 ## Introduction
 
-Welcome to the Student Grading System project! This application is designed to streamline the process of managing student assignments and grading assessments for teachers. With its intuitive user interface and robust features, the Student Grading System aims to simplify administrative tasks and improve efficiency in academic settings.
+Welcome to the Student Grading System project! This application is designed to streamline the process of managing student assignments and grading assessments for teachers. With its intuitive user interface and robust features, the Student Grading System aims to simplify administrative tasks and improve efficiency in academic settings. currently we have only implemented the login and grage generation after entering marks.
 
 Whether you're a teacher looking to grade assignments, generate comprehensive reports, this application provides the tools you need to effectively manage student assessments and track their progress over time.
 
